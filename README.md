@@ -14,5 +14,5 @@ A lightweight Python tool for logging and scoring LLM prompt-response pairs. Bui
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/prompt-eval-tool.git
+git clone https://github.com/iamteran/prompt-eval-tool.git
 cd prompt-eval-tool
