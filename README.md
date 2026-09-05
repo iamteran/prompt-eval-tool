@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Prompt Evaluation Tool
 
 A lightweight Python tool for logging and scoring LLM prompt-response pairs. Built from 4+ years of hands-on RLHF evaluation experience across Outlier AI, Scale AI, and Toloka.
