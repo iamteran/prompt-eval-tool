@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+.pytest_cache/
+.coverage
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Project specific
+*.json
+!evaluations.json
+*.log
